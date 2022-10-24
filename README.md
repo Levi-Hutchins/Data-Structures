@@ -1,6 +1,7 @@
 # Data-Structures
+This repository consists of my assignments from my first year at UON
 Data Structures include:
   - Linked List
   - Stacks & Queues
-  - Binary Search Tree & Hash Table\n
-These files are my assignments from University course: SENG1120
+  - Binary Search Tree & Hash Table
+
