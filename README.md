@@ -1,2 +1,6 @@
 # Data-Structures
-Data Structures implemented in C++
+Data Structures include:
+  - Linked List
+  - Stacks & Queues
+  - Binary Search Tree & Hash Table
+These files are my assignments from University course: SENG1120
